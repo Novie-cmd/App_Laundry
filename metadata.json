@@ -1,0 +1,6 @@
+{
+  "name": "FreshWash Laundry POS & Management System",
+  "description": "Aplikasi kasir dan manajemen laundry modern dengan cetak struk thermal, pelacakan pesanan, sistem pembayaran & piutang, kas harian, stok bahan, laporan keuangan, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
